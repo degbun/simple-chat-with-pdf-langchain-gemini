@@ -1,0 +1,8 @@
+# Ignore les fichiers et dossiers générés par Python
+__pycache__/
+*.pyc
+
+
+
+# Ignore le répertoire virtuel Python
+venv/
