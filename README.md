@@ -1,7 +1,6 @@
 # chat-with-pdf-langchain-gemini ![Status](https://img.shields.io/badge/status-stable-brightgreen) ![Python Version](https://img.shields.io/badge/python-3.10.12-blue) ![Streamlit Version](https://img.shields.io/badge/Streamlit-1.28.2-brightgreen) ![Jupyter](https://img.shields.io/badge/Jupyter-yes-brightgreen)
 This projet This projet is a simple RAG built to chat with pdf
-           
-```
+
 ## Installation
 To install and run this project, you need to follow these steps :
 
