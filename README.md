@@ -9,7 +9,7 @@ To install and run this project, you need to follow these steps :
 ```bash
 git clone https://github.com/degbun/simple-chat-with-pdf-langchain-gemini.git
 # enter in the cloned folder
-cd chat-with-pdf-langchain-gemini
+cd simple-chat-with-pdf-langchain-gemini
 
 ```
 
